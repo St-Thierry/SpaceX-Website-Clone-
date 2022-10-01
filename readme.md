@@ -1,6 +1,6 @@
 # SpaceX Website Clone
 
- a few inner pages with the CSS animations jggjuy
+ a few inner pages with the CSS animations jggj
 
 
 `
